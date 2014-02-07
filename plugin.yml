@@ -1,0 +1,4 @@
+main: com.franga2000.fishkill.FishKill
+name: FishKill
+version: 1.0.0
+description: Plugin to add FishKills similar to TF2.
